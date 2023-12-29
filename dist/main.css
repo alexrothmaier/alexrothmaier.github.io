@@ -1737,9 +1737,9 @@ select {
 @media (max-width: 36em) {
   .booking-modal__content {
     height: 27rem;
-    padding-left: 1rem;
-    background-color: #054A29;
-    background-image: none;
+    padding-left: 12rem;
+    /* background-color: #054A29;
+    background-image: none; */
   }
 }
 
