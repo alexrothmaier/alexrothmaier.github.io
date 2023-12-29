@@ -287,7 +287,7 @@ select {
 }
 
 .footer {
-  background-color: #054A29;
+  background-color: #00e29c;
   padding: 3rem 0 0.5rem 0;
   display: flex;
   align-items: center;
@@ -410,7 +410,7 @@ select {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(135deg, #054A29 0%, #26464d 100%);
+  background-image: linear-gradient(135deg, #00e29c 0%, #26464d 100%);
   border-radius: 1000000px;
 }
 @media (max-width: 62em) {
@@ -581,14 +581,14 @@ select {
 .button--form {
   font-size: 1rem;
   padding: 0.75rem 1rem;
-  color: black;
-  /* background-color: #00e29c; */
+  color: white;
+  background-color: #00e29c;
   border: 0.125rem solid #00e29c;
   font-weight: normal;
   text-transform: none;
 }
 .button--form:hover {
-  color: #323232;
+  color: #00e29c;
 }
 
 .button--background-blur {
@@ -1738,8 +1738,7 @@ select {
   .booking-modal__content {
     height: 27rem;
     padding-left: 12rem;
-    /* background-color: #054A29;
-    background-image: none; */
+   
   }
 }
 
